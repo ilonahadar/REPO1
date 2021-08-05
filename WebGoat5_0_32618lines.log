@@ -1,0 +1,5 @@
+2011-06-09 10:39:11,749 [pool-1-thread-1] (CxScanJob.java:78) INFO  - Packing project
+2011-06-09 10:39:14,968 [pool-1-thread-1] (CxScanJob.java:97) INFO  - Project name is "WebGoat5_0_32618lines"
+2011-06-09 10:39:14,968 [pool-1-thread-1] (CxScanJob.java:106) INFO  - Log in
+2011-06-09 10:39:15,328 [pool-1-thread-1] (CxScanJob.java:112) INFO  - Retrieving scan configurations
+2011-06-09 10:39:15,406 [pool-1-thread-1] (CxScanJob.java:130) INFO  - Request scan
